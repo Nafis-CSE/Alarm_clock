@@ -18,7 +18,7 @@ A responsive and interactive Alarm Clock built with **HTML**, **CSS**, and **Jav
 
 ### 📱 Mobile View
 
-![Mobile View](./screenshots/mobile.png)
+![Mobile View](./screenshots/mobile.jpg)
 
 ---
 
