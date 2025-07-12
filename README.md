@@ -6,7 +6,7 @@ A responsive and interactive Alarm Clock built with **HTML**, **CSS**, and **Jav
 
 ## 🔗 Live Preview
 
-🌐 [Click to view live](https://nafis-cse.github.io/alarm-clock)
+🌐 [Click to view live](https://nafis-cse.github.io/alarm_clock)
 
 ---
 
